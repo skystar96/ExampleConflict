@@ -1,5 +1,5 @@
 public class SomeClass {
-    String A;
+    String A = "1";
     String B;
     String C;
 }
