@@ -3,4 +3,5 @@ public class SomeClass4 {
     String b = "bbb";
     String c = "ccc";
     String d = "444";
+    String e;
 }
